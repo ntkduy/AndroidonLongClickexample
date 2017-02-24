@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android onLongClick example</string>
+
+    //activity_main text
+    <string name="long_click_text_view">Long Press Me!!!</string>
+</resources>
